@@ -1,0 +1,9 @@
+[submodule "src/Python-code-for-anomaly-detection"]
+	path = src/Python-code-for-anomaly-detection
+	url = https://github.com/deguchi-a/research.git
+[submodule "src/VAE-LSTM-for-anomaly-detection"]
+	path = src/VAE-LSTM-for-anomaly-detection
+	url = https://github.com/deguchi-a/research.git
+[submodule "src/anoGAN"]
+	path = src/anoGAN
+	url = https://github.com/deguchi-a/research.git
